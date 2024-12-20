@@ -1,0 +1,15 @@
+
+    h1{color: rgba(0, 128, 0, 0.322);}
+
+    #titulo-principal{color:antiquewhite;}
+    .titulo-secundario{color: blueviolet;}
+    .border-box{border: solid 6px black;
+                margin: 50px;
+                padding: 20px;
+    }
+
+/*modelo en cascada*/    
+
+p{
+    color:rgb(47, 228, 228);
+}

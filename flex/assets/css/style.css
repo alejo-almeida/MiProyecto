@@ -1,0 +1,12 @@
+ul{
+    display: flex;justify-content: center; 
+}
+ul{
+    color: brown;
+    margin: 0;
+    background-color: aqua;
+    padding: auto;
+}
+a{
+    color: antiquewhite;
+}
